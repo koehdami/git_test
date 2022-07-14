@@ -1,3 +1,0 @@
-This is just for testing purpose on the TOP GIT part.
-
-Changed the GIT Part
